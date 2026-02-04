@@ -18,7 +18,7 @@ My homebrewed mapping app for marathon, made if you want a quick way to annotate
 The following is a list of applications to use at your own risk. There will be full explanations as to why you should head this warning. If you do end up using these tools all the more power to you but **here be compilers**. 
 
 ### Runner - Marathon Map App
-[Link](https://marathonmap.app/)
+[Link](https://marathonmap.app/) <br />
 If you are not into AI definitely do not use this app as this app leans on AI heavily in its development chain. <br />
 The developer of this app ran into controversy where they (as I interpret it) asked for permission to use an artists art and then put it through an AI model or modified it without permission of the artist, leading to the artist revoking permission to use the art. <br />
 Furthermore this app is entered into the pump.fun hackathon where it has a crypto token ($RUNNER) it is not used in the app however any profits made from the app are redistributed to shareholders. <br />
