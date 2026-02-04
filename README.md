@@ -7,7 +7,7 @@ Issues and Pull Requests will be looked at however at the moment only I (AuroraL
 - Spelling, Grammatical, and Formatting Errors
 - Content Being Incorrect
 <br />
-I am a Vandal main and as such Vandal will be the only runner with a guide here, for more runners please check out [Other Guides and Resources](/resources/OG&W.md) 
+I am a Vandal main and as such Vandal will be the only runner with a guide here, for more runners please check out Other Guides and Resources. <br />
 For using this content please see #Disclaimers.
 
 # In Game
