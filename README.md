@@ -6,6 +6,7 @@ Issues and Pull Requests will be looked at however at the moment only I (AuroraL
 - Requests to add resources to #Out of Game or more information to items there
 - Spelling, Grammatical, and Formatting Errors
 - Content Being Incorrect
+<br />
 I am a Vandal main and as such Vandal will be the only runner with a guide here, for more runners please check out [Other Guides and Resources]
 For using this content please see #Disclaimers.
 
