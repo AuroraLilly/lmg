@@ -37,3 +37,6 @@ Any information here is uable by anyone with the following exceptions:
 
 If you make money off of any of this content, please consider using github sponsors to donate to me but this is not required. <br />
 Some content is © Bungie, Inc. All rights reserved. Destiny, the Destiny Logo, Bungie and the Bungie logo are among the trademarks of Bungie, Inc. <br />
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTk0ODA0MTIxMl19
+-->
