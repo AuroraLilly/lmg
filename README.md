@@ -1,15 +1,27 @@
 # LMG
-## Lillys Marathon Guides
+## Lilly's Marathon Guides
 ## If you find this helpful please consider sharing this and giving it a star!
 The following repo is a collection of guides and other reasources for Marathon (2026)! <br />
-Issues and Pull Requests will be looked at however at the moment only I (AuroraLilly) will be writing for this. <br />
+Issues and Pull Requests will be looked at however at the moment only I (AuroraLilly) will be writing for this. Pull requests are unlikely to ever be merged, instead please use issues for the following items:
+- Requests to add reasources to #Out of Game or more information to items there
+- Spelling, Gramatical, and Formatting Errors
+- 
+I am a Vandal main and as such Vandal will be the only runner with a guide here, for more runners please check out [Other Guides and Resources]
 For using this content please see #Disclaimers.
 
-# Guides
-## Use Each Link To Link To The Relevent Guide
+# In Game
+- [Vandal]()
+- [Contract Guides]()
+  - [WIP]()
+- [Misc Guides]()
+  - [WIP]()
 
-# Misc Items
-## For items that arn't guides
+# Out of Game
+- [Lore]()
+- [Other Guides and Resources]()
+- [Tools and Applications]()
+- [Content Creators]()
+- [Artists]()
 
 
 # Disclaimers
