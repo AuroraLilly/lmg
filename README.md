@@ -21,8 +21,8 @@ For using this content please see #Disclaimers.
 
 # Out of Game
 - [[Lore]]
-- [[Other Guides and Wikis]]
-- [[Tools and Applications]]
+- [[OG&W]]
+- [[T&A]]
 - [Content Creators]()
 - [Artists]()
 - [Communities]()
