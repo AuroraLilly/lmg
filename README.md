@@ -13,20 +13,20 @@ For using this content please see Disclaimers.
 # In Game
 - [Vandal](/guides/Vandal.md)
 - [Contracts Info](/contracts/info.md)
-  - [Prio Contracts]()
+  - [Prio Contracts ~ 404]()
 	  - [WIP]()
-  - [Other Contracts]() 
+  - [Other Contracts ~ 404]() 
 	  - [WIP]()
-- [Misc Guides]()
+- [Misc Guides ~ 404]()
   - [WIP]()
 
 # Out of Game
 - [Lore](/resources/Lore.md)
 - [Other Guides and Resources](/resources/OG&W.md)
 - [Tools and Applications](/resources/T&A.md)
-- [Content Creators]()
-- [Artists]()
-- [Communities]()
+- [Content Creators ~ 404]()
+- [Artists ~ 404]()
+- [Communities ~ 404]()
 
 
 # Disclaimers
