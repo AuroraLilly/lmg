@@ -10,7 +10,7 @@ I am a Vandal main and as such Vandal will be the only runner with a guide here,
 For using this content please see #Disclaimers.
 
 # In Game
-- [[Vandal]]
+- [Vandal](/guides/Vandal.md)
 - [[Contracts Info]]
   - [Prio Contracts]()
 	  - [WIP]()
