@@ -1,5 +1,5 @@
 # Healing
-As of time of writing as revealed in [this post](https://x.com/MarathonTheGame/status/2018766111404441735) healing now rather than acting instantly ticks up over time. This acts on both shields and health.
+As of time of writing as revealed in [this post](https://x.com/MarathonTheGame/status/2018766111404441735) healing now rather than acting instantly, ticks up over time maxing out at max health or current health + healing items used (10% + 30% + 30% sorta thing). This acts on both shields and health.
 
 ## Health Specific Items
 Health (or to differentiate "Grey Health") has three items that give the ability to heal the player. These are Minor Patch Kits (Prefix to Patch Kit unknown),  Patch Kits, and Advanced Patch Kits. <br />
