@@ -7,10 +7,10 @@ A database with maps and guides for help on Tau Ceti IV.
 ### [Marathon-Guide.com](https://marathon-guide.com/)
 Contains guides, info and stats about a lot of things Marathon. [^1]
 
-## [The Codex Compendium](https://marathonthegame.fandom.com/)
+### [The Codex Compendium](https://marathonthegame.fandom.com/)
 A wiki covering all things Marathon run by the Codex Community. [^2]
 
-## [CyberAcme - Marathon Wiki](https://www.marathonwiki.com/)
+### [CyberAcme - Marathon Wiki](https://www.marathonwiki.com/)
 A wiki covering the og games along with having some resources for the new games. [^3]
 
 
