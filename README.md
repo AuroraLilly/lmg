@@ -3,12 +3,12 @@
 ## If you find this helpful please consider sharing this and giving it a star!
 The following repo is a collection of guides and other resources for Marathon (2026)! <br />
 Issues and Pull Requests will be looked at however at the moment only I (AuroraLilly) will be writing for this. Pull requests are unlikely to ever be merged, instead please use issues for the following items:
-- Requests to add resources to #Out of Game or more information to items there
+- Requests to add resources to Out of Game or more information to items there
 - Spelling, Grammatical, and Formatting Errors
 - Content Being Incorrect
 <br />
 I am a Vandal main and as such Vandal will be the only runner with a guide here, for more runners please check out Other Guides and Resources. <br />
-For using this content please see #Disclaimers.
+For using this content please see Disclaimers.
 
 # In Game
 - [Vandal](/guides/Vandal.md)
