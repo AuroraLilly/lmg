@@ -31,12 +31,12 @@ Waiting for bungie.
 ## Movement Basic Information
 ### Heat
 When sprinting your character will gain heat. This heat build up is viewable on the hud as shown below. <br />
-![[heat-bar.png]] <br />
+![/assets/heat-bar.png](/assets/heat-bar.png) <br />
 When full this will go into a lockout period where any further heat build up will be blocked, as Vandal this locks out most of your movement options so keeping this down is key to survival in ambush situations.
 
 ### Heat Extras
 When in rain (outside with the map raining) or standing/running in water heat build up is less (need to find out by how much) and has an icon below it to represent this. <br />
-![[lowered-heat-bar.png]] <br />
+![lowered-heat-bar.png](/assets/lowered-heat-bar.png) <br />
 During these times Vandal is more powerful (obviously) so if the map is in rainy conditions aim to take fights outside to maximise ability usage.
 
 ## Vandal Specific Movement Options
