@@ -28,6 +28,6 @@ In terms of where content is coming from I cannot say, I have heard that the app
 
 
 
-[^1]: There has been controversy surrounding this resource, the dev apparently leaked details of Triage's, and put peoples weapon reviews about NDA'd content through a LLM and published them under the reviewee's name. According to the developer Triage's details were removed quickly and the reviews were used as placeholders during the development with said content now removed leaving only AI generated placeholder reviews. 
+[^1]: There has been controversy surrounding this resource, the dev apparently leaked details of Triage, and put peoples weapon reviews about NDA'd content through a LLM and published them under the reviewee's name. According to the developer, Triage's details were removed quickly, and the reviews were used as placeholders during the development with said content now removed. This leaves only AI generated placeholder reviews. 
 
 [^2]: AI was used in the creation of this. I regret this and at some point I will do a full code refactor and remove this but at the moment if you do not wish to support AI feel free not to use this :) - None of this resource/guide will ever use ai generated content.
