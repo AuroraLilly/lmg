@@ -40,5 +40,5 @@ Any information here is usable by anyone with the following exceptions:
 - Do not lock this content behind advertisements without transformation of said content. (Wiki's, guide sites, video creators, may use the content in this way so long as the content is transformative).
 - Please attribute/reference the source of the content you use.
 
-If you make money off of any of this content, please consider using Github Sponsors to donate to me but this is not required. <br />
+If you make money off of any of this content (via donations), please consider using Github Sponsors to donate to me to help me justifying putting more hours into this 💖. <br />
 Some content is © Bungie, Inc. All rights reserved. Destiny, the Destiny Logo, Bungie and the Bungie logo are among the trademarks of Bungie, Inc. <br />
