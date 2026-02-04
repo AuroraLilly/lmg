@@ -32,13 +32,7 @@ For using this content please see #Disclaimers.
 # Disclaimers
 Content Follows Bungies Content Usage Rules which should be reviewed [here](https://www.bungie.net/7/en/legal/terms) <br />
 Any information here is usable by anyone with the following exceptions:
-- Do not put the content behind a paywall.
-- Do not put the content in any application or software that has content or features behind a paywall.
-- You may request donations in any application or software that contains this content.
 - Usage of this content must also follow [Bungies Content Usage Rules](https://www.bungie.net/7/en/legal/terms)
-- Private use of this content is allowed.
-- Do not lock this content behind advertisements without transformation of said content. (Wiki's, guide sites, video creators, may use the content in this way so long as the content is transformative).
-- Please attribute/reference the source of the content you use.
 
 If you make money off of any of this content (via donations), please consider using Github Sponsors to donate to me to help me justifying putting more hours into this 💖. <br />
 Obligitory Bungie Copyright Notice <br />
