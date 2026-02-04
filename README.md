@@ -11,7 +11,7 @@ For using this content please see #Disclaimers.
 
 # In Game
 - [Vandal](/guides/Vandal.md)
-- [[Info]]
+- [Contracts Info](/contracts/info.md)
   - [Prio Contracts]()
 	  - [WIP]()
   - [Other Contracts]() 
