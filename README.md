@@ -18,7 +18,8 @@ For using this content please see Disclaimers.
   - [Other Contracts ~ 404]() 
 	  - [WIP]()
 - [Misc Guides ~ 404]()
-  - [WIP]()
+  - [Software and Hardware](/guides/S&H.md)
+  - [Healing](/guides/Heals.md)
 
 # Out of Game
 - [Lore](/resources/Lore.md)
