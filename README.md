@@ -7,7 +7,7 @@ Issues and Pull Requests will be looked at however at the moment only I (AuroraL
 - Spelling, Grammatical, and Formatting Errors
 - Content Being Incorrect
 <br />
-I am a Vandal main and as such Vandal will be the only runner with a guide here, for more runners please check out [Other Guides and Resources]
+I am a Vandal main and as such Vandal will be the only runner with a guide here, for more runners please check out [Other Guides and Resources](/resources/OG&W.md)
 For using this content please see #Disclaimers.
 
 # In Game
@@ -22,8 +22,8 @@ For using this content please see #Disclaimers.
 
 # Out of Game
 - [Lore](/resources/Lore.md)
-- [OG&W](/resources/OG&W.md)
-- [T&A](/resources/T&A.md)
+- [Other Guides and Resources](/resources/OG&W.md)
+- [Tools and Applications](/resources/T&A.md)
 - [Content Creators]()
 - [Artists]()
 - [Communities]()
