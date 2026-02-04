@@ -5,7 +5,7 @@ The following repo is a collection of guides and other resources for Marathon (2
 Issues and Pull Requests will be looked at however at the moment only I (AuroraLilly) will be writing for this. Pull requests are unlikely to ever be merged, instead please use issues for the following items:
 - Requests to add resources to #Out of Game or more information to items there
 - Spelling, Grammatical, and Formatting Errors
-- 
+- Content Being Incorrect
 I am a Vandal main and as such Vandal will be the only runner with a guide here, for more runners please check out [Other Guides and Resources]
 For using this content please see #Disclaimers.
 
