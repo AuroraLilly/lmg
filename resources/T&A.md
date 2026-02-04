@@ -7,10 +7,10 @@ A database with maps and guides for help on Tau Ceti IV.
 ### [Marathon-Guide.com](https://marathon-guide.com/)
 Contains guides, info and stats about a lot of things Marathon. [^1]
 
-## [Sovereign's Marathon Achievement Hunter](https://smah.bumgie.org/)
+### [Sovereign's Marathon Achievement Hunter](https://smah.bumgie.org/)
 A fun resource made to track different unofficial achievements you could do.
 
-## [Total Collapse](https://totalcollapse.org)
+### [Total Collapse](https://totalcollapse.org)
 My homebrewed mapping app for marathon, made if you want a quick way to annotate maps, or put poi's on. [^2]
 
 
