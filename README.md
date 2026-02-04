@@ -16,7 +16,7 @@ For using this content please see #Disclaimers.
   - [Prio Contracts]()
 	  - [WIP]()
   - [Other Contracts]() 
-	  - [WIP]
+	  - [WIP]()
 - [Misc Guides]()
   - [WIP]()
 
