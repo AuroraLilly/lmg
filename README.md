@@ -20,9 +20,9 @@ For using this content please see #Disclaimers.
   - [WIP]()
 
 # Out of Game
-- [[Lore]]
-- [[OG&W]]
-- [[T&A]]
+- [Lore](/resources/Lore.md)
+- [OG&W](/resources/OG&W.md)
+- [T&A](/resources/T&A.md)
 - [Content Creators]()
 - [Artists]()
 - [Communities]()
