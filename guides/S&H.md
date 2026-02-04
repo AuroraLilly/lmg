@@ -15,7 +15,7 @@ Being immobilised reduces your shell's agility stat (? needs fact checking + amo
 I know of only one type of software failure at this time. These can be fixed by popping an os reboot.
 ### EMP
 #### Sourced from a Marathon post
-![emp-os.png](/assets/emp-os.png)
+![emp-os.png](/assets/emp-os.png) <br />
 This debuff is gained from some sort of grenade (emp nade?). In [this post](https://x.com/MarathonTheGame/status/2018766111404441735) around 40s in we see the player get hit with this causing their ability cooldowns to be paused and glitch out, where after 10s it goes into a general os failure with cooldowns not being visible. (This could be either abilities paused, or blocking status of said abilities while increasing cooldown length)
 
 # Firewall and Hardware
