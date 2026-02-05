@@ -13,7 +13,11 @@ Heal 25-45% (? - needs proper calculation) and take (2.7 - 3 s ~ needs retiming)
 Heal 100% (? - may have changed) and take (5-6s ~ unknown) to use.
 
 ## Shield Specific Items
-As with health items there are three specific shield items. These are Minor Mechanics Kits (Prefix to Mechanics Kit unknown), Mechanics Kits, and Advanced Mechanics Kits. <br />
+As with health items there are three specific shield items. These are Minor Shield Charges (Prefix to Shield Charge unknown), Shield Charges, and Advanced Shield Charges. <br />
 ![sheild-items.png](/assets/sheild-items.png)
-### Minor Patch Kits
+### Minor Shield Charges
 Heal 1 (?) bar of shield. Take (0.5 - 1s to use)
+### Shield Charges
+Heal multiple bars of shield (?). Take (1-2s to use)
+### Advanced Shield Charges
+Heal multiple bars of shield (?). Take (3-5s to use)

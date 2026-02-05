@@ -20,6 +20,7 @@ For using this content please see Disclaimers.
 - [Misc Guides ~ 404]()
   - [Software and Hardware](/guides/S&H.md)
   - [Healing](/guides/Heals.md)
+  - [Consumables ~ WIP](/guides/Consumables.md)
 
 # Out of Game
 - [Lore](/resources/Lore.md)
