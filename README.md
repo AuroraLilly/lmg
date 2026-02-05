@@ -21,6 +21,12 @@ For using this content please see Disclaimers.
   - [Software and Hardware](/guides/S&H.md)
   - [Healing](/guides/Heals.md)
   - [Consumables ~ WIP](/guides/Consumables.md)
+  - [Maps](/guides/maps/Maps.md)
+	  - [Perimeter ~ WIP](/guides/maps/Perimeter.md)
+	  - [Dire Marsh ~ WIP](/guides/maps/DM.md)
+	  - [Outpost ~ WIP](/guides/maps/Outpost.md)
+	  - [Cryo Archive ~ WIP](/guides/maps/Cryo.md)
+- [Royalty Free Videos/Gameplay](/resources/Videos.md)
 
 # Out of Game
 - [Lore](/resources/Lore.md)
